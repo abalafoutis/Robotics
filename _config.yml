@@ -1,1 +1,8 @@
-tmeme: jekyll-theme-slate
+title: "Εισαγωγή στη Ρομποτική"
+description: "Εκπαιδευτική Ιστοσελίδα"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
+# Optional: Customize
+repository: abalafoutis/Robotics

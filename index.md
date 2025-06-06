@@ -1,8 +1,7 @@
 ---
-layout: default
-title: My Page
+layout: single
+title: "Welcome to CS101"
 ---
 
-# Hello, world!
-
-This is my GitHub Pages site with a theme!
+Καλωσήρθατε στο μάθημα **Εισαγωγή στη Ρομποτική**  
+This site includes the [Syllabus](syllabus.html), [Schedule](schedule.html), and more.
