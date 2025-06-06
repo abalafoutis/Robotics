@@ -1,7 +1,3 @@
 title: "Εισαγωγή στη Ρομποτική"
 description: "Εκπαιδευτική Ιστοσελίδα"
-theme: jekyll-theme-cayman
-
-
-# Optional: Customize
-repository: abalafoutis/Robotics
+theme: jekyll-theme-dinky
