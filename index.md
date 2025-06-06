@@ -1,7 +1,2 @@
----
-layout: single
-title: "Welcome to CS101"
----
-
-Καλωσήρθατε στο μάθημα **Εισαγωγή στη Ρομποτική**  
-This site includes the [Syllabus](syllabus.html), [Schedule](schedule.html), and more.
+# Robotics Simulation Labs
+Here you will find a set of tutorials to practice robotics concepts with [Webots Open-Source Robot Simulator](https://cyberbotics.com/) and [Python](https://www.python.org/). 
